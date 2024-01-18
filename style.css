@@ -1,0 +1,54 @@
+body{
+    background-color: lightcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(216, 112, 147);
+    padding-left: 50px;
+    
+}
+table, tr, td{background-color: #FFC0CB;
+    border: 2px solid purple;
+    border-collapse: collapse;
+
+}
+table {
+border-spacing: 2px;
+    border-collapse: collapse;
+    margin: 20px;
+    border: 4xp solid;
+    width: 300px;
+}
+* {
+    font-family: "Arial";
+}
+
+h1, h2, h3 {
+    font-family: "impact";
+    text-shadow: 2px 5px #FFC0CB;
+    text-transform: uppercase;
+}
+
+esimerkki-box
+p {
+    text-indent: 10px;
+    color: aquamarine;
+}
+h1 {
+    color: purple
+}
+link{
+    color: purple;
+}
+ .jsharkkatyyli {
+    display: none;
+}
+.esimerkki {color: purple;
+}
+.esimerkki-box { 
+    background-color:lightpink ;
+    border: 1xp solid;
+    padding: 5px;
+}
+ td{
+  color: purple; 
+
+ } 
